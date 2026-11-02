@@ -25,7 +25,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 (This is the 3-Clause BSD NON-AI License.  See also
-https://github.com/non-ai-licenses/non-ai-licenses/edit/main/NON-AI-BSD3 )
+https://github.com/non-ai-licenses/non-ai-licenses)
 
 (This license applies to all code and structural changes, where permitted, since commit e086a5a0d69560fea5b2a1b7eed34669fc2566db)
 
