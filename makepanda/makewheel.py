@@ -924,4 +924,4 @@ if __name__ == "__main__":
     (options, args) = parser.parse_args()
 
     SetVerbose(options.verbose)
-    makewheel("1.12.0", options.outputdir, options.platform)
+    makewheel("1.12.1", options.outputdir, options.platform)

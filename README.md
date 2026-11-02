@@ -5,7 +5,7 @@ nonengine is a minimal PBR IBL engine descended from Panda3D. Usage is intended 
 
 <img width="2560" height="1440" alt="Time Dilation Lab nonengine screen 1a" src="https://github.com/user-attachments/assets/a35c7dac-7dfc-4206-b13d-80201d64209b" />
 
-<img width="1920" height="1080" alt="Arcostudy screen 1a" src="https://github.com/user-attachments/assets/a00605fc-75eb-4ecb-88e0-b49b5e7c6946" />
+<img width="1600" height="900" alt="arena_screen-Wed-Aug-05-23-05-36-2026-4365" src="https://github.com/user-attachments/assets/34aa2b4e-1e0d-434a-a1cd-226b71d6cce6" />
 
 ## Permissive but NON-AI Policy
 nonengine, starting Sep 29, 2023, does not allow usage for AI-training purposes or inclusion in an AI-dataset. nonengine is believed to be entirely free of generative AI contributions and does not accept PRs made with generative AI technology.
